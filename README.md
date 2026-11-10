@@ -35,3 +35,5 @@ Repository: [SpeedUAS](https://github.com/adlerkiely-afk/SpeedUAS)
 ---
 
 [Portfolio](https://adlerkiely-afk.github.io) · [LinkedIn](https://www.linkedin.com/in/adlerkiely) · [Email](mailto:adler.kiely@gmail.com)
+
+<sub>Last updated November 2026.</sub>
